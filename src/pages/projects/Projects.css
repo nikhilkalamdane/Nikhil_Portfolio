@@ -6,6 +6,7 @@
 .basic-projects {
   margin-left: 5%;
   margin-right: 5%;
+  margin-bottom: 5%;
 }
 
 .projects-heading-div {
@@ -66,7 +67,7 @@
 }
 .repo-cards-div-main {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   gap: 1rem 1rem;
   margin-left: 40px;
